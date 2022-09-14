@@ -4,7 +4,7 @@
 int _putchar(char);
 void print_alphabet(void);
 void print_alphabet_x10(void);
-int_islower(int c);
+int _islower(int c);
 int print sign(int n);
 int _abs(int);
 int print_last_digit(int);
