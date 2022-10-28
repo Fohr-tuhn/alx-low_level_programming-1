@@ -4,12 +4,6 @@
  * @b: binary number
  * Return: uint converted
  */
-#include "main.h"
-/**
- * binary_to_uint - this function converts a binary to uint
- * @b: binary number
- * Return: uint converted
- */
 unsigned int binary_to_uint(const char *b)
 {
 	int i;
